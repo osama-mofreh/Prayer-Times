@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Prayer-Times/static/css/main.bba4b0a1.css",
+    "main.js": "/Prayer-Times/static/js/main.f4f3a4d3.js",
+    "static/js/453.ebd288e7.chunk.js": "/Prayer-Times/static/js/453.ebd288e7.chunk.js",
+    "static/media/n.jpg": "/Prayer-Times/static/media/n.f108f84e7944d12dd955.jpg",
+    "index.html": "/Prayer-Times/index.html",
+    "main.bba4b0a1.css.map": "/Prayer-Times/static/css/main.bba4b0a1.css.map",
+    "main.f4f3a4d3.js.map": "/Prayer-Times/static/js/main.f4f3a4d3.js.map",
+    "453.ebd288e7.chunk.js.map": "/Prayer-Times/static/js/453.ebd288e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bba4b0a1.css",
+    "static/js/main.f4f3a4d3.js"
+  ]
+}
